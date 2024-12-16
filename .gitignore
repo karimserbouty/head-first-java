@@ -1,0 +1,8 @@
+# Compiled Files
+*.class
+
+# Resources
+docs/
+
+# System Files
+desktop.ini
