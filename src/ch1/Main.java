@@ -1,4 +1,4 @@
-public class Main {
+class Main {
 	
 	/**
 	 * Main entry point for the launcher.

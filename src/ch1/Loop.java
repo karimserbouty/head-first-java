@@ -1,4 +1,4 @@
-public class Loop {
+class Loop {
 	public static void main(String[] args) {
 		
 		int budget = 100;

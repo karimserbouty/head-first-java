@@ -1,4 +1,4 @@
-public class Randomizer {
+class Randomizer {
 	public static void main(String[] args) {
 
 		String[] companyList = {"IBM", "Microsoft", "Oracle", "Red Hat"};

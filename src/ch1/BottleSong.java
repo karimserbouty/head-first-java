@@ -1,4 +1,4 @@
-public class BottleSong {
+class BottleSong {
 	public static void main(String[] args) {
 		
 		int bottleQuantity = 10;
