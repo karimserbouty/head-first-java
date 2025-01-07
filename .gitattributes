@@ -1,0 +1,12 @@
+# Default
+*				text=auto
+
+# Java
+*.java          text diff=java
+
+# Git
+.gitattributes	text
+.gitignore		text
+
+# Documentation
+*.md			text diff=markdown
